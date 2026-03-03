@@ -177,7 +177,9 @@ new TypeIt("#teks2", {
     " ",
     "May your life be blessed, god bless you my child ",
     " ",
-    "- Wishing you all the best"
+    "- Wishing you all the best",
+     
+     "Love youuuu"
   ],
   startDelay: 2000,
   speed: 75,
@@ -186,7 +188,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Love youu."],
+  strings: ["Thankyou."],
   startDelay: 2000,
   speed: 150,
   loop: false,
@@ -463,4 +465,5 @@ function confetti() {
 
   if (!onlyOnKonami) poof();
 };
+
 
